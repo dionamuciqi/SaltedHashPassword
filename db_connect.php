@@ -1,7 +1,7 @@
 <?php
 $host = "localhost";
 $user = "root";
-$password = "diona2003";
+$password = "";
 $dbname = "ds";
 
 // Establish database connection
